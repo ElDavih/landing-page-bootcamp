@@ -20,9 +20,9 @@ Primera pagina web del bootcamp de ManzDev. Todos los recursos utilizados fueron
 - Inicializando el proyecto con `pnpm` utilizando el modulo ESM.
 
 > [!TIP]
-> Para crear un proyecto con `pnpm` utilizando module `ESM` `pnpm init --init-type module`. Para mas informacion revisar la pagina oficial de [pnpm](https://pnpm.io/cli/init)
+> Para crear un proyecto con `pnpm` utilizando module **ESM** `pnpm init --init-type module`. Para mas informacion revisar la pagina oficial de [pnpm](https://pnpm.io/cli/init)
 
-- Instalacion de las devDepencias `servor`, `oxlint`, `oxfmt` y `stylelint`
+- Instalacion de las devDependencias `servor`, `oxlint`, `oxfmt` y `stylelint`
 
 > [!IMPORTANT]
 > Las reglas utilizadas de todos los linters son las **POR DEFECTO**. Para mas informacion sobre las reglas [oxlint](https://oxc.rs/docs/guide/usage/linter.html), [oxfmt](https://oxc.rs/docs/guide/usage/formatter.html), [stylelint](https://stylelint.io/user-guide/get-started)
@@ -32,7 +32,7 @@ Primera pagina web del bootcamp de ManzDev. Todos los recursos utilizados fueron
 > [!WARNING]
 > Por tema de seguridad se recomienda utilizar el Protocolo SSH en lugar de HTTPS. Para mas informacion sobre las claves [SSH](https://terminaldelinux.com/git/introduccion/configuracion-github/).
 
-- Instalacion de la devDependencia y creacion del script `gh-pages`
+- Instalacion de la devDependencias y creacion del script `gh-pages`
 
 ## Dia 4 - Inteligencia Artificial
 
