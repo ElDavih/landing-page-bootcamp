@@ -178,7 +178,7 @@ body {
         list-style: square;
         margin-block: calc(var(--size) * 1.4);
 
-        .highlist {
+        & .highlist {
           color: var(--highlist);
           font-weight: 600;
         }
